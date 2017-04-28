@@ -1,4 +1,4 @@
-#include <stdio.h>
+dsresrdsfdsrs#include <stdio.h>
 #include <stdlib.h>
 
 typedef struct nodo{
