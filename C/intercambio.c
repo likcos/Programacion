@@ -1,9 +1,11 @@
-//Programa que intercambia dos números utilizando punteros 
+f//Programa que intercambia dos números utilizando punteros 
 
 #include <stdio.h>
 
-void intera( int &, int &);
+void intera( int &, int &)
 void interb(int *, int *);
+
+
 
 int main() {
   int a=4, b=3;
